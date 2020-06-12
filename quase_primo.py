@@ -26,6 +26,8 @@ def powerset(s):
     
         for num in single_set:
             multiply *= num
+            if multiply > n:
+                break
         
         if len(single_set) == 1:
             multipliers["add"].append(single_set[0])
@@ -48,4 +50,4 @@ for num in multiplicadores["subtract"]:
     if num <= n:
         value_to_subtract += n//num
     
-return n - value_to_add + value_to_subtract
+print(n - value_to_add + value_to_subtract)
