@@ -1,6 +1,8 @@
-linha1 = input().split()
-linha2 = input().split()
+linha1 = input()
+linha2 = input()
 
+linha1 = linha1.split()
+linha2 = linha2.split()
 
 n = int(linha1[0])
 lista = linha2
