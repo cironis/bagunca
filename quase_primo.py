@@ -3,7 +3,7 @@ linha2 = input().split()
 
 
 n = int(linha1[0])
-k = linha1[1]
+k = int(linha1[1])
 primos = linha2
 
 count = 0
