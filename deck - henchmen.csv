@@ -1,0 +1,21 @@
+Card Name,Description,Type,Cost
+Goomba,Support +1,Henchman,2 Gold
+Koopa Troopa,Support +2,Henchman,4 Gold
+Boo,Support +3,Henchman,6 Gold
+Piranha Plant,Support +4,Henchman,8 Gold
+Bowser Jr.,Support +5,Henchman,10 Gold
+Bane,"Support +1 - When this is revealied, you may pay up to 5 evilness to incresse the strength of this card by 1 for each evilness paid. ",Henchman,6 Gold
+Penguin,"Support +2 - When this is reveiled, gain 4 Gold. ",Henchman,6 Gold
+Poison Evy,"Support +2 - When this is reveiled, gain 4 Evilness. ",Henchman,6 Gold
+Catwoman,"Support +2 - When this is revealed you may discard as many gold as you want. All other players may choose to discard the same amount. If they don't, they imidiatliy lose the conflict (this has no effect when battling heros).",Henchman,10 Gold
+The Riddler,"Support +2 - When this is revealed you may discard as many evilness as you want. All other players may choose to discard the same amount. If they don't, they imidiatliy lose the conflict (this has no effect when battling heros).",Henchman,10 Gold
+Saruman,"Support +3 - When this is revealed, all opponents must discard 4 evilness, if they have less them 4 evilness in their hand, they discard all their evilness and imidiatly lose this conflict (this has no effect when battling heros).",Henchman,8 Gold
+Smaug,"Support +3 - When this is revealed, all opponents must discard 4 Gold, if they have less them 4 Gold in their hand, they discard all their evilness and imidiatly lose this interaction (this has no effect when battling heros).",Henchman,8 Gold
+The Nazgûl,"Support +2 - When this is revealed, gain a spy",Henchman,6 Gold
+Grand Moff Tarkin,"Support +2 - When this is revealed, you may draw a secret plan ",Henchman,6 Gold
+Loki,Support +2 - All your minions have strenght 2 for this interaction. ,Henchman,8 Gold
+Belatrix,"Support +1 - When this is revealed, get 1 victory point. If you win the interaction, gain another victory point.",Henchman,6 Gold
+Dementor,Support +4 - All minions (including yours) have streight 0 for this interaction (this include minons on your lair when battling heros).,Henchman,6 Gold
+Darth Vader,"Support +4 - When this is revaled, your opponents discard all their light support cards in this interactions (this has no effect when battling heros).",Henchman,10 Gold
+Professor Quirrell,Support +0 - All other henchmen that you control in this interaction have streight 4.,Henchman,6 Gold
+Vulture,"Support +1 - When this is revealied, you may pay up to 5 Gold to incresse the strength of this card by 1 for each Gold paid. ",Henchman,6 Gold
