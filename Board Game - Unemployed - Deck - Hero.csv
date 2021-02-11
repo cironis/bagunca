@@ -1,0 +1,61 @@
+Card Name,Description,Strength,Hostage Bonus,Penality
+Batman,Has strength 12 when battling the Joker,10,While you control this gain 2 Gold at the start of the production phase,Take a wound token
+Robin,"When this is reveled, if Batman is in the Hero's deck, search for it and add him to this raid",5,"When you defeat this, gain 5 Evilness",Discard 3 Gold
+Flash,Other vilains can not aid you with this hero,6,"When you defeat this, gain 5 Evilness",Discard 3 Evilness
+Wonder Woman,Minions strength are not added to the total when calculating results of this interaction,6,"At the Special powers phase, you may relase this hostage to return all heros in front of you and draw a new card",Discard 2 Victory Points
+Aquaman,"All heroes in this battle with strength less than 5, have strength 5",5,"At the Special powers phase, this can be placed in front of other villains. (You lose control of this hostage)",Discard 3 Evilness
+Superman,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",12,"When you defeat this, gain 10 Evilness",Discard 5 Evilness
+Gotham Police,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",3,Gain 3 Gold,Discard 3 Gold
+Harry Potter,Has strength 10 when battleing Voldermort,8,While you control this gain a light support (+1) card at the start of the production phase,Take a wound token
+Ron Weasly,"When this is reveled, if Harry Potter is in the Hero's deck, search for it and add him to this raid",4,"When you defeat this, gain 5 Gold",Discard 3 Evilness
+Hermione,"When this is revealed, draw 1 hero from the hero's deck and add them to this raid",3,"At the end of the game, this is worth 2 Victory Points",Discard 1 Building
+Hagrid,Defense points are not added to the total when calculating results of this interaction,6,"At the end of the game, this is worth 2 Victory Points",Return 1 Hostage
+Nevile,"When the battle starts, you must discard 5 evilness. If you have 4 or less evilness on your hand, discard all your evilness and imidiatly lose this battle.",2,Gain 3 Gold,Discard 3 Gold
+Dumbledoor,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",10,"When you defeat this, gain 2 Victory points",Discard 2 Victory Points
+Magical Law Enforcemen,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",4,"When you defeat this, Gain 3 Evilness",Discard 3 Evilness
+Mario,Has strength 12 when battling Bowser,10,While you control this gain 1 Victory Point at start of production,Take a wound token
+Peach,"When this is reveled, if Mario is in the Hero's deck, search for it and add him to this raid",4,"At the end of the game, this is worth 2 Victory Points",Discard 3 Evilness
+Daisy,"When this is revealed, draw 2 hero from the hero's deck and add them to this raid",1,"At the end of the game, this is worth 1 victory point for every special item you have",Discard 1 Item
+Luigi,"This can only be battle by other villains, if no other villains choose to aid you, you lose the battle",4,"When you defeat this, gain 5 Gold",Discard 3 gold
+Yoshi,"When the battle starts, you must discard 5 Gold. If you have 4 or less Gold on your hand, discard all your evilness and imidiatly lose this battle.",2,Gain 3 Evilness,Discard 3 Evilness
+Donkey Kong,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",8,"When you defeat this, gain 1 victory point",Discard 1 Victory Point
+Toad,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",3,"When you defeat this, Gain 2 Gold",Discard 3 Gold
+Iron Man,Has stregth 12 when battling Tanos,10,While you control this gain 2 Evilness at the start of the production phase,Take a wound token
+Warmachine,"When this is reveled, if Iron Man is in the Hero's deck, search for it and add him to this raid",5,"When you defeat this, gain two medium support (+2) cards",Discard 1 Victory point
+Hulk,All light and medium support cards have strength 0 for this battle,8,"At the end of the game, this is worth 3 Victory Points",Discard 2 Victory point
+Black Panther,"When this is revield, start a biding with Evilness. The lowest bider draws another hero card in front of them",8,"At the Special powers phase, you my return this to the hero's deck to imidiatly buy a card from the market (replace the bought card with another card from the deck)",Discard 2 Victory point
+Nick Furry,"When this is reveled, search for S.H.I.L.D cards on the hero's deck and place one in front of ever villain that does not have a S.H.I.L.E.D card in front of them, including you.",4,"When you defeat this, gain a spy",Discard 3 Evilness
+Captain America,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",10,"When you defeat this, gain a Energy Shield",Return a Building to the Deck
+S.H.I.L.D,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",4,"When you defeat this, gain a Medium Support Card (+3)",Discard a Secret Plan
+Luke Skywalker,Has strength 12 when battling Palpatine,10,While you control this +2 Lair deffence,Take a wound token
+Leia,"When this is reveled, if Luke is in the Hero's deck, search for it and add him to this raid",4,"When you defeat this, if no player controls the Death Star, you may search for it on the discard pile or market deck and pay its cost to add it to your lair",Discard 3 Gold
+Han solo,Heavy Support Cards (+3) have strength 0 during this battle,5,While you control this gain 2 Gold at the start of the production phase,Discard 5 Gold
+Chewbacca,"When this is reveled, if Han solo is in the Hero's deck, search for it and add him to this raid",5,While you control this gain 2 Evilness at the start of the production phase,Discard 5 Evilness
+R2-D2,"When this is revealed, draw an addition heros card in front of every player, including you.",1,"When this is defeated, Gain a Healing Kit",Dicard 3 Gold
+Master Yoda,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",10,"When you defeat this, gain Two Medium Support Card (+3)",Return an item to the Deck
+Clone Army,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",5,"When you defeat this, gain a secret plan.",Discard 3 Evilness
+Frodo,Can not be deffeted by Sauron,4,"At the Special powers phase, this can be placed in front of other villains. (You lose control of this hostage)",Take a wound token
+Sam Weisley,"When this is reveled, if Frodo is in the Hero's deck, search for it and add him to this raid",4,"When you defeat this, gain 5 Evilness",Move one place down on the evilmeter
+Legolas,"When the battle starts, you must discard 5 evilness. If you have 4 or less evilness on your hand, discard all your evilness and imidiatly lose this battle.",8,"At the end of the game, this is worth 3 Victory Points",Move one place down on the evilmeter
+Aragon,"When the battle starts, you must discard 5 Gold. If you have 4 or less evilness on your hand, discard all your gold and imidiatly lose this battle.",6,"At the end of the game, this is worth 2 Victory Points",Return one hostage you control to the hero's deck
+Arwin,"When this is reveled, search for The Riders of Rohan cards on the hero's deck and place one in front of ever villain that does not have a The Riders of Rohan card in front of them, including you.",5,While you control this gain a medium support card (+2) at the start of production,Return one hostage you control to the hero's deck
+Gandalf,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",10,"When you defeat this, gain a Healing Kit",Return a Special Item to the Deck
+The Riders of Rohan,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",5,"When you defeat this, gain a Medium Support Card (+3)",Return a Hostage to the Hero's deck
+Gotham Police,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",3,Gain 3 Gold,Discard 3 Gold
+Gotham Police,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",3,Gain 3 Gold,Discard 3 Gold
+Magical Law Enforcemen,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",4,"When you defeat this, Gain 3 Evilness",Discard 3 Evilness
+Magical Law Enforcemen,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",4,"When you defeat this, Gain 3 Evilness",Discard 3 Evilness
+Toad,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",3,"When you defeat this, Gain 2 Gold",Discard 3 Gold
+Toad,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",3,"When you defeat this, Gain 2 Gold",Discard 3 Gold
+S.H.I.L.D,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",4,"When you defeat this, gain a Medium Support Card (+3)",Discard a Secret Plan
+S.H.I.L.D,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",4,"When you defeat this, gain a Medium Support Card (+3)",Discard a Secret Plan
+S.H.I.L.D,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",4,"When you defeat this, gain a Medium Support Card (+3)",Discard a Secret Plan
+S.H.I.L.D,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",4,"When you defeat this, gain a Medium Support Card (+3)",Discard a Secret Plan
+S.H.I.L.D,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",4,"When you defeat this, gain a Medium Support Card (+3)",Discard a Secret Plan
+Clone Army,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",5,"When you defeat this, gain a secret plan.",Discard 3 Evilness
+Clone Army,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",5,"When you defeat this, gain a secret plan.",Discard 3 Evilness
+The Riders of Rohan,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",5,"When you defeat this, gain a Medium Support Card (+3)",Return a Hostage to the Hero's deck
+The Riders of Rohan,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",5,"When you defeat this, gain a Medium Support Card (+3)",Return a Hostage to the Hero's deck
+The Riders of Rohan,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",5,"When you defeat this, gain a Medium Support Card (+3)",Return a Hostage to the Hero's deck
+The Riders of Rohan,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",5,"When you defeat this, gain a Medium Support Card (+3)",Return a Hostage to the Hero's deck
+The Riders of Rohan,"This card can never be a hostage. At the end of the battle, return it to the bottom of the hero's deck",5,"When you defeat this, gain a Medium Support Card (+3)",Return a Hostage to the Hero's deck
